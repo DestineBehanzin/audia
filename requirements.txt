@@ -1,3 +1,4 @@
+reportlab
 groq
 python-dotenv
 streamlit
