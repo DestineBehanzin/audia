@@ -1,4 +1,9 @@
-reportlab
+pandas
+plotly
 groq
 python-dotenv
-streamlit
+reportlab
+numpy
+kaleido
+matplotlib
+seaborn
