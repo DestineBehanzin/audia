@@ -20,3 +20,4 @@ Chaque illustration est placée directement en dessous du texte correspondant po
 Les tableaux sont lisibles et esthétiques, exploitables par un propriétaire, un syndic ou un diagnostiqueur.
 AudIA fournit également des estimations réalistes des coûts pour chaque amélioration (vitrages, isolation, panneaux acoustiques, rideaux…) et met en avant les points critiques et solutions prioritaires.
 L’ensemble du rapport est conçu pour être esthétique, structuré, intuitif et engageant, prêt à être remis tel quel pour décision ou mise en œuvre des travaux d’amélioration
+Moins de texte, explique en étant concis

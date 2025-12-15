@@ -17,7 +17,7 @@ h1,h2,h3{text-align:center;}
 </style>
 """, unsafe_allow_html=True)
 
-st.title("📊 AudIA - Rapport Acoustique Résidentiel")
+st.title("📊 AudIA - Améliore ta qualité de vie sonore avec nous")
 st.markdown("Téléversez votre JSON pour générer automatiquement un rapport PDF complet (texte + visualisations).")
 
 # --------------------------- Fonction LLM ---------------------------
